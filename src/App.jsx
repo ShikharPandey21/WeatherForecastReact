@@ -1,6 +1,6 @@
 import useWeather from "./hooks/useWeather";
 import { useState } from "react";
-import CityInput from "./components/cityInput";
+import CityInput from "./components/CityInput";
 import WeatherDisplay from "./components/weatherDisplay";
 import './App.css';
 
